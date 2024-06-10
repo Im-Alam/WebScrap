@@ -38,4 +38,8 @@ The primary goal of this project is to scrape data from the AmbitionBox website,
    ```sh
    git clone https://github.com/Im-Alam/WebScrapingDemo.git
    cd web-scraping-ambitionbox
+   
+2. **Install dependency**:
+    pip install -r requirements.txt
+
 
