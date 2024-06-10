@@ -40,6 +40,9 @@ The primary goal of this project is to scrape data from the AmbitionBox website,
    cd web-scraping-ambitionbox
    
 2. **Install dependency**:
+    ```sh
+    python3 -m venv Venv
+    source Venv/bin/activate
     pip install -r requirements.txt
 
 
